@@ -1,0 +1,7 @@
+modal==0.63.57
+python-dotenv==1.0.0
+pytest==7.3.1
+pytest-cov  # For coverage reports
+pytest-mock  # For easier mocking
+streamlit==1.37.0
+openai==1.37.1
